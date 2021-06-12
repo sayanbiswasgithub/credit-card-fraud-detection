@@ -4,7 +4,7 @@
 
 This notebook will introduce Machine Learning & data science concepts by
 exploring Credit Card Fraud Detection. I tried to create this machine
-learning model as much possible end to end & descriptive.
+learning model as much as possible end to end & descriptive.
 
 This is example of <b>Single-Class Classification</b>, where it involves
 to decide whether a sample is part of one class or another.
